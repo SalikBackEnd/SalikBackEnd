@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ![SalikBackEnd's github stats](https://github-readme-stats.vercel.app/api?username=SalikBackEnd&theme=react&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalikBackEnd&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
