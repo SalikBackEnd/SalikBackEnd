@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://github.com/usmanghanidev/usmanghanidev/edit/main/README.md
+![Salik's github stats](https://github.com/usmanghanidev/usmanghanidev/edit/main/README.md)
+
