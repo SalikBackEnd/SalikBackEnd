@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Salik's github stats](https://github.com/usmanghanidev/usmanghanidev/edit/main/README.md)
+![SalikBackEnd's github stats](https://github-readme-stats.vercel.app/api?username=SalikBackEnd&theme=react&show_icons=true)
 
