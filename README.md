@@ -18,5 +18,10 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalikBackEnd&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
+🔭 I’m currently working on WPF Server-Client app that uses SignalR for communication.
+
+
+📫 How to reach me: https://www.salikbackend.com/
+
 Check out my first php application on Smart Traffic Management System:
 https://smarttrafficms.000webhostapp.com/
